@@ -85,7 +85,7 @@ architecture, state management, and building responsive user interfaces..<br>
 - 🔗 [LinkedIn](https://www.linkedin.com/in/krishna-chaithanya-pigilapu-655563349/)
 - 📧 Email:pigilapuchaithanya123@gmail.com
 - 🌐 Portfolio: coming soon
-- 💻 [GitHub](github.com/Chaithu122)
+- 💻 [GitHub](https://github.com/Chaithu122)
 
 
 

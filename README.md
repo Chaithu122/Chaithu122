@@ -51,7 +51,7 @@
   
   **Backend:** Java, Spring Boot, RESTFUL APIs <br>
   
-  **Frontend:** React js, Axios, HTML, CSS,JavaScript <br>
+  **Frontend:** React js, Axios, HTML, CSS, JavaScript <br>
   
   **Database:** MySQL <br>
   
@@ -67,7 +67,7 @@ Router and data fetching using Axios. Gained experience in React component
 architecture, state management, and building responsive user interfaces..<br>
   
   **Technologies used:** <br>
-  **Frontend:** React js,  HTML, CSS,JavaScript 
+  **Frontend:** React js,  HTML, CSS, JavaScript 
 
   ## 🌐 Portfolio Website
    **Technologies used:** <br>

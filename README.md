@@ -20,7 +20,7 @@
 
 - **💻 Programming Languages:** Core Java, Advanced Java
 - **⚙ Technologies:** Servlets, JSP, JDBC
-- **🗂 Frameworks:** Spring Framework, Spring Boot, Spring MVC, Spring Data JPA, RESTful APIs
+- **🗂 Frameworks:** Spring Framework, Spring Boot, Spring MVC, Spring Data JPA, RESTful APIs, Spring Security, JWT
 - **🌐 Web Technologies:** HTML, CSS, JavaScript
 - **🎨 Front-End Framework:** React JS
 - **🗄 Database:** Oracle, MySQL
